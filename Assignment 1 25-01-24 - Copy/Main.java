@@ -104,13 +104,13 @@ public class Main {
     public static void main(String[] args) {
         //Assignment 1
         Scanner obj = new Scanner(System.in);
-
-        // System.out.print(convertChars(obj));
-
-        // reverse(obj);
-
-        // System.out.print(countDig(obj));
-
-        // differentiate(obj);
+        //Ques1
+        System.out.print(convertChars(obj));
+        //Ques2
+        reverse(obj);
+        //Ques3
+        System.out.print(countDig(obj));
+        //Ques4
+        differentiate(obj);
     }
 }
